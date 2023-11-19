@@ -1,0 +1,42 @@
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\bin\Debug\A_star_test.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\bin\Debug\A_star_test.pdb
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\bin\Debug\A_star_test.xml
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\obj\x86\Debug\A_star_test.Form1.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\obj\x86\Debug\A_star_test.Resources.resources
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\obj\x86\Debug\A_star_test.exe
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\obj\x86\Debug\A_star_test.xml
+C:\Users\hakan\documents\visual studio 2010\Projects\A_star_test\A_star_test\obj\x86\Debug\A_star_test.pdb
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\obj\x86\Debug\A_star_test.exe
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\obj\x86\Debug\A_star_test.xml
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\obj\x86\Debug\A_star_test.pdb
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\bin\Debug\A_star_test.exe
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\bin\Debug\A_star_test.pdb
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\bin\Debug\A_star_test.xml
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\obj\x86\Debug\A_star_test.Form1.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\obj\x86\Debug\A_star_test.Resources.resources
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\new\A_star_test\A_star_test\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.exe
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.xml
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.pdb
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\bin\Debug\A_star_test.exe
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\bin\Debug\A_star_test.pdb
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\bin\Debug\A_star_test.xml
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.Form1.resources
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.Resources.resources
+G:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.vbproj.GenerateResource.Cache
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\bin\Debug\A_star_test.exe
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\bin\Debug\A_star_test.pdb
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\bin\Debug\A_star_test.xml
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.vbprojAssemblyReference.cache
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.Form1.resources
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.Resources.resources
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.vbproj.GenerateResource.cache
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.vbproj.CoreCompileInputs.cache
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.exe
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.xml
+L:\VENTO Home PC\flash disc\new shortestpath by hakan oguz\A_star_test\A_star_test\obj\x86\Debug\A_star_test.pdb
