@@ -1,4 +1,4 @@
-﻿Imports System
+Imports System
 Imports System.IO
 Imports System.Drawing
 Public Class Form1
@@ -461,4 +461,5 @@ Public Class Form1
     Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged
 
     End Sub
+
 End Class
